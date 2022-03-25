@@ -1,0 +1,5 @@
+C:\Users\berfi\Sites\pratikler\hatayönetimi\obj\Debug\net5.0\hatayönetimi.csproj.AssemblyReference.cache
+C:\Users\berfi\Sites\pratikler\hatayönetimi\obj\Debug\net5.0\hatayönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berfi\Sites\pratikler\hatayönetimi\obj\Debug\net5.0\hatayönetimi.AssemblyInfoInputs.cache
+C:\Users\berfi\Sites\pratikler\hatayönetimi\obj\Debug\net5.0\hatayönetimi.AssemblyInfo.cs
+C:\Users\berfi\Sites\pratikler\hatayönetimi\obj\Debug\net5.0\hatayönetimi.csproj.CoreCompileInputs.cache
