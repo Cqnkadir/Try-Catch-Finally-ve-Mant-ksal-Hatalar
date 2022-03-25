@@ -3,3 +3,14 @@ C:\Users\berfi\Sites\pratikler\hatayönetimi\obj\Debug\net5.0\hatayönetimi.Gene
 C:\Users\berfi\Sites\pratikler\hatayönetimi\obj\Debug\net5.0\hatayönetimi.AssemblyInfoInputs.cache
 C:\Users\berfi\Sites\pratikler\hatayönetimi\obj\Debug\net5.0\hatayönetimi.AssemblyInfo.cs
 C:\Users\berfi\Sites\pratikler\hatayönetimi\obj\Debug\net5.0\hatayönetimi.csproj.CoreCompileInputs.cache
+C:\Users\berfi\Sites\pratikler\hatayönetimi\bin\Debug\net5.0\hatayönetimi.exe
+C:\Users\berfi\Sites\pratikler\hatayönetimi\bin\Debug\net5.0\hatayönetimi.deps.json
+C:\Users\berfi\Sites\pratikler\hatayönetimi\bin\Debug\net5.0\hatayönetimi.runtimeconfig.json
+C:\Users\berfi\Sites\pratikler\hatayönetimi\bin\Debug\net5.0\hatayönetimi.runtimeconfig.dev.json
+C:\Users\berfi\Sites\pratikler\hatayönetimi\bin\Debug\net5.0\hatayönetimi.dll
+C:\Users\berfi\Sites\pratikler\hatayönetimi\bin\Debug\net5.0\ref\hatayönetimi.dll
+C:\Users\berfi\Sites\pratikler\hatayönetimi\bin\Debug\net5.0\hatayönetimi.pdb
+C:\Users\berfi\Sites\pratikler\hatayönetimi\obj\Debug\net5.0\hatayönetimi.dll
+C:\Users\berfi\Sites\pratikler\hatayönetimi\obj\Debug\net5.0\ref\hatayönetimi.dll
+C:\Users\berfi\Sites\pratikler\hatayönetimi\obj\Debug\net5.0\hatayönetimi.pdb
+C:\Users\berfi\Sites\pratikler\hatayönetimi\obj\Debug\net5.0\hatayönetimi.genruntimeconfig.cache
